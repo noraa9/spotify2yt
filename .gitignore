@@ -1,0 +1,17 @@
+# Binaries
+/bin/
+/dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
