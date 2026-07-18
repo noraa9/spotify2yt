@@ -1,16 +1,18 @@
-# Binaries
-/bin/
-/dist/
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test binaries
+*.test
+
+# Coverage
+*.out
 
 # IDE
 .idea/
-.vscode/
-
-# Environment
-.env
-
-# Logs
-*.log
 
 # OS
 .DS_Store
